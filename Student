@@ -92,8 +92,8 @@ public static class Node {
 public class students{
 	    public static void main(String[] args) {
 	       
-	    	Student student1 = new Student("Oliver De Ocampo", 112233, 85.5f);
-	        Student student2 = new Student("Peter Sigurdson", 445566, 92.3f);
+	    	Student student1 = new Student("Nancy Sharma", 202106, 92.5f);
+	        Student student2 = new Student("Sweta Sandhu", 202107, 82.5f);
 
 	      
 	      
