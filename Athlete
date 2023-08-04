@@ -145,3 +145,4 @@ Is queue empty? false
 Front athlete: Athlete 2
 Dequeued athlete: Athlete 2
 Is queue empty? true
+
